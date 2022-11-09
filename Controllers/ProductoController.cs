@@ -2,9 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 
 //Dependencias a usar:
-using KenyWebAPI.Modelos;
 using System.Data;
 using System.Data.SqlClient;
+using KenyWebAPI.Models;
 
 namespace KenyWebAPI.Controllers
 {

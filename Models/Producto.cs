@@ -1,4 +1,4 @@
-﻿namespace KenyWebAPI.Modelos
+﻿namespace KenyWebAPI.Models
 {
     public class Producto
     {
